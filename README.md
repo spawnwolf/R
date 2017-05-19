@@ -1,1 +1,1 @@
-# R http://google.co.uk http://yahoo.co.jp http://mangainn.me 
+# R http://google.co.uk http://kernel.org http://mangainn.me 
