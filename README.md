@@ -1,2 +1,2 @@
 http://google.co.uk http://kernel.org http://mangainn.net
-http://earth.nullschool.net http://sourceforge.net http://beijing.51idc.com/
+http://earth.nullschool.net http://sourceforge.net 
