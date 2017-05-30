@@ -44,19 +44,10 @@ Abacho:
     
    
    - www.altavista.com
-      - search.altavista.com
-      - listings.altavista.com
-      - altavista.de
-      - altavista.fr
-      - '{}.altavista.com'
-      - be-nl.altavista.com
+      -
+    - be-nl.altavista.com
       - be-fr.altavista.com
-    params:
-      - q
-    backlink: 'web/results?q={k}'
-AOL:
-  - 
-    urls:
+  
       - www.search.aol.com
       - search.aol.it
       - aolsearch.aol.com
@@ -83,19 +74,9 @@ AOL:
       - search.hp.my.aol.de
       - search.hp.my.aol.it
       - search-intl.netscape.com
-    params:
-      - query
-      - q
-    backlink: 'aol/search?q={k}'
-  - 
-    urls:
+    
       - de.aolsearch.com
-    params:
-      - q
-    backlink: 'search?q={k}'
-Apollo lv:
-  - 
-    urls:
+    
       - apollo.lv/portal/search/
     params:
       - q
@@ -106,17 +87,13 @@ Apollo7:
       - apollo7.de
     params:
       - query
-    backlink: 'a7db/index.php?query={k}&de_sharelook=true&de_bing=true&de_witch=true&de_google=true&de_yahoo=true&de_lycos=true'
-Aport:
-  - 
+    
     urls:
       - sm.aport.ru
     params:
       - r
     backlink: 'search?r={k}'
-Arama:
-  - 
-    urls:
+
       - arama.com
     params:
       - q
@@ -135,7 +112,7 @@ Arianna:
       - www.arianna.com
     params:
       - query
-    backlink: 'search/abin/integrata.cgi?query={k}'
+    
 Ask:
   - 
     urls:
@@ -159,7 +136,7 @@ Ask:
       - search.ask.com
       - '{}.search.ask.com'
       - avira-int.ask.com
-      - searchqu.com
+      - http://searchqu.com
       - search.tb.ask.com
       - nortonsafe.search.ask.com
       - avira.search.ask.com
