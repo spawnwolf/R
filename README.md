@@ -153,15 +153,13 @@ Ask:
     params:
       - q
     backlink: '?q={k}'
-auone:
-  - 
-    urls:
-      - search.auone.jp
-      - sp-search.auone.jp
-    
-      - www.sp-image.search.auone.jp
-    
-    urls:
+
+ 
+ 
+      - sp-search.auone
+.seaone
+
+urls:
       - www2.austronaut.at
       - www1.austronaut.at
     params:
