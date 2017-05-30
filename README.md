@@ -8,19 +8,8 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://poland.edu
  
  http://3dimagingcenter.com http://i-cat.com http://anatomage.com
  
- SEO, list
- 
  
- 
-  - www.118700.se
-      - foretag.118700.se
-      - webben.118700.se
-    params:
-      - q
-    backlink: 'sok.aspx?q={k}'
-123people:
-  - 
-    urls- www.123people.com
+    www.123people.com
 
       - www.so.com
     params:
@@ -31,8 +20,8 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://poland.edu
       - gb2312
 Abacho:
   - 
-    urls:
-      - www.abacho.de
+    
+   - www.abacho.de
       - www.abacho.com
       - www.abacho.co.uk
       - www.se.abacho.com
@@ -42,80 +31,19 @@ Abacho:
       - www.abacho.es
       - www.abacho.ch
       - www.abacho.it
-    params:
-      - q
-    backlink: 'suche?q={k}'
-ABCsøk:
-  - 
-    urls:
-      - abcsok.no
-      - verden.abcsok.no
-    params:
-      - q
-    backlink: '?q
-Acoon:
-  - 
-    urls:
+    
       - www.acoon.de
-    params:
-      - begriff
-    backlink: 'cgi-bin/search.exe?begriff={k}'
-Aguea:
-  - 
-    urls:
-      - chercherfr.aguea.com
-    params:
-      - q
-    backlink: 's.py?q={k}'
-Allaverksamheter:
-  - 
-    urls:
+
       - www.allaverksamheter.se
-    params:
-      - What
-    backlink: 'SearchResult.aspx?What={k}'
-Alexa:
-  - 
-    urls:
-      - alexa.com
-      - search.toolbars.alexa.com
-    params:
-      - q
-    backlink: 'search?q={k}'
-Alice Adsl:
-  - 
-    urls:
-      - rechercher.aliceadsl.fr
-    params:
-      - qs
-    backlink: 'google.pl?qs={k}'
-All.by:
-  - 
-    urls:
+   
       - all.by
-    params:
-      - query
-    backlink: 'cgi-bin/search.cgi?mode=by&query={k}'
-Allesklar:
-  - 
-    urls:
+    
       - www.allesklar.de
       - www.allesklar.at
       - www.allesklar.ch
-    params:
-      - words
-    backlink: '?words={k}'
-AllTheWeb:
-  - 
-    urls:
-      - www.alltheweb.com
-    params:
-      - q
-    backlink: 'search?q={k}'
-AltaVista:
-  - 
-    urls:
-      - www.altavista.com
+    
+   
+   - www.altavista.com
       - search.altavista.com
       - listings.altavista.com
       - altavista.de
@@ -129,7 +57,7 @@ AltaVista:
 AOL:
   - 
     urls:
-      - search.aol.com
+      - www.search.aol.com
       - search.aol.it
       - aolsearch.aol.com
       - www.aolrecherche.aol.fr
