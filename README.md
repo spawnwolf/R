@@ -10,13 +10,9 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://poland.edu
  
  SEO, list
  
-backlink: 's/{k}'
-    charsets:
-      - iso-8859-2
-118 700:
-  - 
-    urls:
-      - www.118700.se
+ 
+ 
+  - www.118700.se
       - foretag.118700.se
       - webben.118700.se
     params:
@@ -24,25 +20,8 @@ backlink: 's/{k}'
     backlink: 'sok.aspx?q={k}'
 123people:
   - 
-    urls:
-      - www.123people.com
-      - '123people.{}'
-    params:
-      - '/s\/([^\/]+)/'
-      - search_term
-    backlink: 's/{k}'
-360search:
-  - 
-    urls:
-      - so.360.cn
-    params:
-      - q
-    backlink: 's?q={k}'
-    charsets:
-      - UTF-8
-      - gb2312
-  - 
-    urls:
+    urls- www.123people.com
+
       - www.so.com
     params:
       - q
@@ -73,7 +52,7 @@ ABCsøk:
       - verden.abcsok.no
     params:
       - q
-    backlink: '?q={k}'
+    backlink: '?q
 Acoon:
   - 
     urls:
@@ -264,15 +243,7 @@ Ask:
     backlink: 'web?q={k}'
   - urls:
       - safesearch.avira.com
-    params:
-      - ask
-      - q
-      - searchfor
-    hiddenkeyword:
-      - '/^$/'
-      - '/'
-Atlas:
-  - 
+    
     urls:
       - searchatlas.centrum.cz
     params:
@@ -283,26 +254,9 @@ auone:
     urls:
       - search.auone.jp
       - sp-search.auone.jp
-    params:
-      - q
-    backlink: '?q={k}'
-    charsets:
-      - utf-8
-      - euc-jp
-      - ms932
-auone Images:
-  - 
-    urls:
+    
       - sp-image.search.auone.jp
-    params:
-      - q
-    backlink: '?q={k}'
-    charsets:
-      - utf-8
-      - euc-jp
-      - ms932
-Austronaut:
-  - 
+    
     urls:
       - www2.austronaut.at
       - www1.austronaut.at
@@ -313,12 +267,7 @@ Babylon:
     urls:
       - search.babylon.com
       - searchassist.babylon.com
-    params:
-      - q
-      - '/\/web\/(.*)/'
-    backlink: '?q={k}'
-Baidu:
-  - 
+  
     urls:
       - www.baidu.com
       - www1.baidu.com
@@ -327,15 +276,6 @@ Baidu:
       - zhidao.baidu.com
       - tieba.baidu.com
       - news.baidu.com
-    params:
-      - wd
-      - word
-      - kw
-    backlink: 's?wd={k}'
-    charsets:
-      - UTF-8
-      - gb2312
-  - 
-    urls:
+    
       - web.gougou.com
     params:
