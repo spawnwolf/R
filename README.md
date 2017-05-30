@@ -77,27 +77,26 @@ Abacho:
     
       - de.aolsearch.com
     
-      - apollo.lv/portal/search/
-    params:
+      - www.apollo.lv
+    params:
       - q
-    backlink: '?cof=FORID%3A11&q={k}&search_where=www'
-Apollo7:
-  - 
-    urls:
-      - apollo7.de
+:
+- 
+  
+- apollo7.de
     params:
       - query
     
     urls:
-      - sm.aport.ru
-    params:
-      - r
-    backlink: 'search?r={k}'
 
-      - arama.com
-    params:
-      - q
-    backlink: 'search.php3?q={k}'
+ 
+
+    backlink: 'search?r={k
+
+.com
+c 
+    -
+
 Arcor:
   - 
     urls:
@@ -145,9 +144,9 @@ Ask:
       - ask
       - q
       - searchfor
-    backlink: 'web?q={k}'
-  - urls:
-      - safesearch.avira.com
+    backlink:eb?q
+
+- safesearch.avira.com
     
     urls:
       - searchatlas.centrum.cz
@@ -160,7 +159,7 @@ auone:
       - search.auone.jp
       - sp-search.auone.jp
     
-      - sp-image.search.auone.jp
+      - www.sp-image.search.auone.jp
     
     urls:
       - www2.austronaut.at
