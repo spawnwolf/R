@@ -132,26 +132,3 @@ Ask:
  
       - sp-search.auone
 .seaone
-
-urls:
-      - www2.austronaut.at
-      - www1.austronaut.at
-    params:
-      - q
-Babylon:
-  - 
-    urls:
-      - search.babylon.com
-      - searchassist.babylon.com
-  
-    urls:
-      - www.baidu.com
-      - www1.baidu.com
-      - m.baidu.com
-      - www.baidu.co.th
-      - zhidao.baidu.com
-      - tieba.baidu.com
-      - news.baidu.com
-    
-      - web.gougou.com
-    params:
