@@ -9,14 +9,10 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://poland.edu
  http://3dimagingcenter.com http://i-cat.com http://anatomage.com
  
  
-    www.123people.com
+ 
 
-      - www.so.com
-    params:
-      - q
    
-      - UTF
- 
+     
 www.abacho.de
       - www.abacho.com
       - www.abacho.co.uk
@@ -39,11 +35,9 @@ www.abacho.de
       - www.allesklar.ch
     
    
-   - www.altavista.com
-      -
-    - be-nl.altavista.com
-      - be-fr.altavista.com
-  
+   
+      
+
       - www.search.aol.com
       - search.aol.it
       - aolsearch.aol.com
@@ -70,39 +64,23 @@ www.abacho.de
       - search.hp.my.aol.de
       - search.hp.my.aol.it
       - search-intl.netscape.com
-    
-      - de.aolsearch.com
-    
-      - www.apollo.lv
-    params:
-      - q
-:
-- 
+   
   
-- apollo7.de
-    params:
-      - query
-    
-    urls:
+
+
+
+  
+  
 
  
 
-    backlink: 'search?r={k
 
-.com
-c 
-    -
+  
 
-Arcor:
-  - 
-    urls:
-      - www.arcor.de
-    params:
-      - Keywords
-    backlink: 'content/searchresult.jsp?Keywords={k}'
-Arianna:
-  - 
-    urls:
+
+ 
+ 
+  urls:
       - arianna.libero.it
       - www.arianna.com
     params:
