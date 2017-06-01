@@ -28,9 +28,9 @@ www.abacho.de
 
       - www.allaverksamheter.se
    
-      - all.by
-    
-      - www.allesklar.de
+      -
+
+      - www.allesklar.de
       - www.allesklar.at
       - www.allesklar.ch
     
@@ -67,12 +67,8 @@ www.abacho.de
    
   
 
-
-
   
   
-
- 
 
 
   
@@ -81,19 +77,17 @@ www.abacho.de
  
  
   urls:
-      - arianna.libero.it
-      - www.arianna.com
-    params:
-      - query
-    
+
+      - w
+     
+
 Ask:
   - 
     urls:
       - ask.com
       - web.ask.com
-      - int.ask.com
-      - mws.ask.com
-      - images.ask.com
+      - int.ask.coms.ask.com
+     - images.ask.com
       - 'images.{}.ask.com'
       - ask.reference.com
       - www.askkids.com
@@ -121,8 +115,8 @@ Ask:
     backlink:eb?q
 
 - safesearch.avira.com
-    
-    urls:
+ 
+urls:
       - searchatlas.centrum.cz
     params:
       - q
