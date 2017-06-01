@@ -14,14 +14,10 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://poland.edu
       - www.so.com
     params:
       - q
-    backlink: 's?q={k}'
-    charsets:
-      - UTF-8
-      - gb2312
-Abacho:
-  - 
-    
-   - www.abacho.de
+   
+      - UTF
+ 
+www.abacho.de
       - www.abacho.com
       - www.abacho.co.uk
       - www.se.abacho.com
