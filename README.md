@@ -1,10 +1,4 @@
-http://kernel.org http://mangainn.net http://sourceforge.net 
-
-http://www.lookingforlyrics.org http://polandhistory.edu http://poland.edu
-
- http://www.arm.linux.org.uk/ http://wiki.osdev.org/ https://lists.01.org/pipermail/kbuild-all
+http://kernel.org http://mangainn.net http://google.co.uk
+http://www.lookingforlyrics.org http://polandhistory.edu http://www.arm.linux.org.uk/ 
+http://wiki.osdev.org/ http://developer.arm.com http://eures.eu 
  
- http://developer.arm.com http://eures.eu http://stackoverflow.com
- 
- http://3dimagingcenter.com http://i-cat.com http://anatomage.com
- http://aol.co.uk
