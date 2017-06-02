@@ -4,9 +4,9 @@ http://wiki.osdev.org/ http://developer.arm.com http://eures.eu
  
  eures portal cv
  
- Systm engineering:asm, C, C++, Visual Studio 2005/2009, C#
+ Systm engineering:asm, bash, C, C++, Visual Studio, C#, Perl...
  
- Radiology technician: iCAT, Newtom VG
+ Radiology technician: iCAT, Newtom VG...
  
- Surgical simulations : ident, materialise, iCAT Vision, Nobel BioCare, Blue SkyBio
+ Surgical simulations : ident, materialise, iCAT Vision, Nobel BioCare, Blue SkyBio...
  
