@@ -4,4 +4,3 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://www.arm.linux.or
 
 http://wiki.osdev.org/ http://developer.arm.com http://eures.eu 
  
- eures portal cv
