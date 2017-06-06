@@ -1,10 +1,8 @@
 http://kernel.org http://mangainn.net http://google.co.uk
 
 http://www.lookingforlyrics.org http://polandhistory.edu 
-
-http://wiki.osdev.org/ http://developer.arm.com http://eures.eu 
-
-
+http://www.mitk.org http://developer.arm.com http://eures.eu 
+http://www.ietf.org
  
 Planar Configuration (0028,0006) shall be 0
 
