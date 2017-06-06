@@ -1,12 +1,12 @@
 http://kernel.org http://mangainn.net http://google.co.uk
 
-http://www.lookingforlyrics.org http://polandhistory.edu 
+http://www.lookingforlyrics.org http://polandhistory.edu http://www.ietf.org
+
 http://www.mitk.org http://developer.arm.com http://eures.eu 
-http://www.ietf.org
+
  
 Planar Configuration (0028,0006) shall be 0
 
-Note
 The value of Planar Configuration (0028,0006) is irrelevant since the manner of encoding components is specified in the MPEG2 standard, hence it is set to 0.
 
 Samples per Pixel (0028,0002) shall be 3
