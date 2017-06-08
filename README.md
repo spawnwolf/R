@@ -20,21 +20,7 @@ Frame Time Vector (0018,1065)
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
-Who is it?
-どなたですか?
-donata desu ka.
 
-Do you have a minute?
-ちょっといいですか?
-chotto ii desu ka.
-
-Is that all?
-それだけですか?
-sore dake desu ka.
-
-What does this mean?
-これどういう意味ですか?
-kore dou iu imi desu ka.
 
 Am I disturbing you?
 お邪魔ですか?
@@ -63,7 +49,7 @@ dou shitan desu ka.
 
 Really?
 そうですか?/本当なのですか?
-sou desu ka./hontou na no desu ka.
+sou desu ka./hontou na no
 
 May I come in?
 入れてもらえますか?
