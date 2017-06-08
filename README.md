@@ -5,14 +5,12 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://www.ietf.org
 http://www.mitk.org http://developer.arm.com http://eures.eu 
 
 http://www.jlptstudy.net/ http://www.japanesetest4you.com/ http://www.sansot.fr/vocab.html
-
- 
-Planar Configuration (0028,0006) 
- 
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Planar Configuration (0028,0006)  
 The value of Planar Configuration (0028,0006) 
 Samples per Pixel (0028,0002) 
 Photometric Interpretation (0028,0004) shall be YBR_PARTIAL_420 or MONOCHROME2
-
 Bits Allocated (0028,0100)
 Bits Stored (0028,0101) 
 High Bit (0028,0102)
