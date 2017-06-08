@@ -4,7 +4,7 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://www.ietf.org
 
 http://www.mitk.org http://developer.arm.com http://eures.eu 
 
-http://www.jlptstudy.net/ http://www.japanesetest4you.com/ http://www.sansot.fr/ 
+http://www.jlptstudy.net/ http://www.japanesetest4you.com/ http://www.sansot.fr/vocab.html
  
 Planar Configuration (0028,0006) 
  
