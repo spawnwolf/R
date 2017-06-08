@@ -46,11 +46,7 @@ ojama desu ka.
 Do you remember?
 覚えていますか?
 oboete imasu ka.
-
-
- 
-Advertisement
-
+ 
 Where’s the police box?
 交番はどこですか?
 kouban wa doko desu ka.
