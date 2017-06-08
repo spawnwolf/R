@@ -46,6 +46,7 @@ ojama desu ka.
 Do you remember?
 覚えていますか?
 oboete imasu ka.
+
  
 Where’s the police box?
 交番はどこですか?
