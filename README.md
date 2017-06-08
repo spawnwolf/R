@@ -19,9 +19,6 @@ Frame Time (0018,1063)
 Frame Time Vector (0018,1065)
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-What’s this?
-これは何ですか?
-kore wa nan desu ka.
 
 Who is it?
 どなたですか?
@@ -75,10 +72,6 @@ irete moraemasu ka.
 I trust nothing is wrong?
 何か不都合でも?
 nani ka futsugou demo.
-
-Where do I find a phone?
-電話はどこにありますか?
-denwa wa doko ni arimasu ka.
 
 Who told you that?
 どなたからお聞きになったのですか?
