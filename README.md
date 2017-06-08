@@ -5,6 +5,82 @@ http://www.lookingforlyrics.org http://polandhistory.edu http://www.ietf.org
 http://www.mitk.org http://developer.arm.com http://eures.eu 
 
 http://www.jlptstudy.net/ http://www.japanesetest4you.com/ http://www.sansot.fr/vocab.html
+
+
+word":" ",
+                "reading":"ああ",
+                "pos":"感",
+                "translation":"Oh!, Ah!"
+              },
+              {
+                "word":"会う",
+                "reading":"あう",
+                "pos":"動I",
+                "translation":"meet"
+              },
+              {
+                "word":"青い",
+                "reading":"あおい",
+                "pos":"形",
+                "translation":"blue"
+              },
+              {
+                "word":"赤い",
+                "reading":"あかい",
+                "pos":"形",
+                "translation":"red"
+              },
+              {
+                "word":"明るい",
+                "reading":"あかるい",
+                "pos":"形",
+                "translation":"bright"
+              },
+              {
+                "word":"秋",
+                "reading":"あき",
+                "pos":"名",
+                "translation":"autumn, fall"
+              },
+              {
+                "word":"開く",
+                "reading":"あく",
+                "pos":"動I",
+                "translation":"open, to be opened"
+              },
+              {
+                "word":"開ける",
+                "reading":"あける",
+                "pos":"動II",
+                "translation":"to open"
+              },
+              {
+                "word":"上げる",
+                "reading":"あげる",
+                "pos":"動II",
+                "translation":"raise, give"
+              },
+              {
+                "word":"朝",
+                "reading":"あさ",
+                "pos":"名",
+                "translation":"morning"
+              },
+              {
+                "word":"朝御飯",
+                "reading":"あさごはん",
+                "pos":"名",
+                "translation":"breakfast"
+              },
+              {
+                "word":"明後日",
+                "reading":"あさって",
+                "pos":"名",
+                "translation":"the day after tomorrow"
+              },
+              {
+                "word":"足"
+
  
 Planar Configuration (0028,0006) 
  
