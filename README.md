@@ -21,49 +21,7 @@ Frame Time Vector (0018,1065)
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
 
-ID
---------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.014
----------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.018
-Kanji: 作
-Radical: 人
-Traits: 7画
-Hiragana: ??
-Romanji: ??
-Traduction principale: fabriquer
-Traduction secondaire: produire, réaliser
-ON:
-サク
-サ
-KUN:
-つく.る
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.019
-Kanji: 元
-Radical: 二
-Traits: 4画
-Hiragana: ??
-Romanji: ??
-Traduction principale: origine
-Traduction secondaire: commencement
-ON:
-ゲン
-ガン
-KUN:
-もと
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.020
-Kanji: 兄
-Radical: 口
-Traits: 5画
-Hiragana: あに
-Romanji: ani
-Traduction principale: grand-frère
+
 Traduction secondaire: frère ainé
 ON:
 ケイ
@@ -72,100 +30,9 @@ KUN:
 あに
 -------------------------------------------------------------------------
 -------------------------------------------------------------------------
-ID: 4.021
-Kanji: 光
-Radical: 小
-Traits: 6画
-Hiragana: ??
+: ??
 Romanji: ??
-Traduction principale: lumière
-Traduction secondaire: éclat, étinceler, briller
-ON:
-コウ
-KUN:
-ひか.る
-ひかり
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.022
-Kanji: 冬
-Radical: 夂
-Traits: 5画
-Hiragana: ふゆ
-Romanji: fuyu
-Traduction principale: hiver
-Traduction secondaire: 
-ON:
-トウ
-KUN:
-ふゆ
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.023
-Kanji: 切
-Radical: 刀
-Traits: 4画
-Hiragana: ??
-Romanji: ??
-Traduction principale: couper
-Traduction secondaire: trancher
-ON:
-セツ
-サイ
-KUN:
-き.る
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.024
-Kanji: 台
-Radical: 厶
-Traits: 5画
-Hiragana: ??
-Romanji: ??
-Traduction principale: support
-Traduction secondaire: socle
-ON:
-ダイ
-タイ
-KUN:
-うてな
-われ
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.025
-Kanji: 合
-Radical: 人
-Traits: 6画
-Hiragana: ??
-Romanji: ??
-Traduction principale: correspondre
-Traduction secondaire: convenir
-ON:
-ゴウ
-ガ
-KUN:
-あ.う
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.026
-Kanji: 同
-Radical: 冂
-Traits: 6画
-Hiragana: ??
-Romanji: ??
-Traduction principale: identique
-Traduction secondaire: égal, similaire
-ON:
-ドウ
-KUN:
-おな.じ
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.027
-Kanji: 回
-Radical: 囗
-Traits: 6画
-Hiragana: ??
+
 Romanji: ??
 Traduction principale: tourner
 Traduction secondaire: tour
@@ -219,65 +86,7 @@ KUN:
 ID: 4.036
 Kanji: 妹
 Radical: 女
-Traits: 8画
-Hiragana: いもうと
-Romanji: imouto
-Traduction principale: petite-sœur
-Traduction secondaire: sœur cadette
-ON:
-マイ
-KUN:
-いもうと
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.037
-Kanji: 姉
-Radical: 女
-Traits: 8画
-Hiragana: あね
-Romanji: ane
-Traduction principale: grande-sœur
-Traduction secondaire: sœur ainée
-ON:
-シ
-KUN:
-あね
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.038
-Kanji: 室
-Radical: 宀
-Traits: 9画
-Hiragana: しつ
-Romanji: shitsu
-Traduction principale: pièce
-Traduction secondaire: appartement, chambre
-ON:
-シツ
-KUN:
-むろ
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.039
-Kanji: 家
-Radical: 宀
-Traits: 10画
-Hiragana: いえ
-Romanji: ie
-Traduction principale: maison
-Traduction secondaire: 
-ON:
-カ
-KUN:
-いえ
-や
-うち
--------------------------------------------------------------------------
--------------------------------------------------------------------------
-ID: 4.040
 
-Romanji: otouto
-Traduction principale: petit frère
 Traduction secondaire: frère cadet, apprenti, disciple
 ON:
 テイ
