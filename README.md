@@ -1,1 +1,5 @@
-http://kernel.org http://mangainn.net http://www.lookingforlyrics.org http://polandhistory.edu http://www.ietf.org http://www.mitk.org http://developer.arm.com http://eures.eu http://nihongo-e-na.com/ http://google.co.uk
+http://kernel.org http://mangainn.net 
+
+http://eures.eu http://poland.edu http://google.co.uk
+ 
+http://jlpt.jp http://ietf.org http://lookingforlyrics.org
