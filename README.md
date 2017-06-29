@@ -25,7 +25,9 @@ ra	ri	ru	re	ro
 wa				wo
 ん				
 n				
-	が	ぎ	ぐ	げ	ご
+
+
+が	ぎ	ぐ	げ	ご
 ga	gi	gu	ge	go
 	ざ	じ	ず	ぜ	ぞ
 za	ji	zu	ze	zo
@@ -38,39 +40,43 @@ pa	pi	pu	pe	po
 ゔ		
 vu
 
+
+
 ア	イ	ウ	エ	オ
 a	i	u	e	o
-K	カ	キ	ク	ケ	コ
+	カ	キ	ク	ケ	コ
 ka	ki	ku	ke	ko
-S	サ	シ	ス	セ	ソ
+	サ	シ	ス	セ	ソ
 sa	shi	su	se	so
-T	タ	チ	ツ	テ	ト
+	タ	チ	ツ	テ	ト
 ta	chi	tsu	te	to
-N	ナ	ニ	ヌ	ネ	ノ
+	ナ	ニ	ヌ	ネ	ノ
 na	ni	nu	ne	no
-H	ハ	ヒ	フ	ヘ	ホ
+	ハ	ヒ	フ	ヘ	ホ
 ha	hi	fu	he	ho
-M	マ	ミ	ム	メ	モ
+	マ	ミ	ム	メ	モ
 ma	mi	mu	me	mo
-Y	ヤ		ユ		ヨ
+	ヤ		ユ		ヨ
 ya		yu		yo
-R	ラ	リ	ル	レ	ロ
+	ラ	リ	ル	レ	ロ
 ra	ri	ru	re	ro
-W	ワ				ヲ
+	ワ				ヲ
 wa				wo
-N	ン				
+	ン				
 n				
-G	ガ	ギ	グ	ゲ	ゴ
+
+
+ガ	ギ	グ	ゲ	ゴ
 ga	gi	gu	ge	go
-Z	ザ	ジ	ズ	ゼ	ゾ
+	ザ	ジ	ズ	ゼ	ゾ
 za	ji	zu	ze	zo
-D	ダ	ヂ	ヅ	デ	ド
+	ダ	ヂ	ヅ	デ	ド
 da	ji	zu	de	do
-B	バ	ビ	ブ	ベ	ボ
+	バ	ビ	ブ	ベ	ボ
 ba	bi	bu	be	bo
-P	パ	ピ	プ	ペ	ポ
+	パ	ピ	プ	ペ	ポ
 pa	pi	pu	pe	po
-V			ヴ		
+			ヴ		
 vu		
 
 
