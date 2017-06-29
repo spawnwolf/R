@@ -22,7 +22,7 @@ Ka  ki ku ke ko
 
 た ち つ て と ta chi tsu te to
 
-な に ぬ ね	の na ni nu ne no
+な に ぬ ね の na ni nu ne no
 
 は ひ ふ へ ほ ha	hi	fu	he	ho
 
@@ -31,8 +31,6 @@ Ka  ki ku ke ko
 ら り る れ ろ ra ri ru re ro
 わ を wa wo
 ん n
-
-
 
 ア	イ	ウ	エ	オ a	i	u	e	o
 
