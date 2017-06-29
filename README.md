@@ -27,20 +27,7 @@ wa				wo
 n				
 
 
-が	ぎ	ぐ	げ	ご
-ga	gi	gu	ge	go
-	ざ	じ	ず	ぜ	ぞ
-za	ji	zu	ze	zo
-	だ	じ	づ	で	ど
-da	ji	zu	de	do
- ば	び	ぶ	べ	ぼ
-ba	bi	bu	be	bo
-ぱ	ぴ	ぷ	ぺ	ぽ
-pa	pi	pu	pe	po
-ゔ		
-vu
-
-
+ 
 
 ア	イ	ウ	エ	オ
 a	i	u	e	o
@@ -66,6 +53,26 @@ wa				wo
 n				
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ガ	ギ	グ	ゲ	ゴ
 ga	gi	gu	ge	go
 	ザ	ジ	ズ	ゼ	ゾ
@@ -79,4 +86,5 @@ pa	pi	pu	pe	po
 			ヴ		
 vu		
 
+が	ぎ	ぐ	げ	ご ga	gi	gu	ge	go ざ	じ	ず	ぜ	ぞ za	ji	zu	ze	zo だ	じ	づ	で	ど da	ji	zu	de	do ば	び	ぶ	べ	ぼ ba	bi	bu	be	bo ぱ	ぴ	ぷ	ぺ ぽ pa	pi	pu	pe	po ゔ vu
 
