@@ -2,8 +2,8 @@ http://kernel.org http://mangainn.net http://poland.edu
 
 http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
 
-あ い う え お a	i	u	e	o
-か き く け こ ka	ki	ku	ke	ko 
+あ い う え お  a	i	u	e	o
+か き く け こ  ka	ki	ku	ke	ko 
 さ し す せ そ sa	shi	su	se	so
 た ち つ て と ta	chi	tsu	te	to
 な に ぬ ね	の na	ni	nu	ne	no
