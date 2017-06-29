@@ -21,11 +21,21 @@ ka	ki	ku	ke	ko
  せ
  そ
 sa	shi	su	se	so
+
+
+
+
+
  た	
  ち	
  つ	
  て	
  と 
+ 
+ 
+ 
+ 
+ 
  ta	chi	tsu	te	to
 
 
