@@ -16,6 +16,8 @@ eures
 
 
 な に ぬ ね	の na	ni	nu	ne	no
+
+
 は ひ ふ へ ほ ha	hi	fu	he	ho 
 
 
