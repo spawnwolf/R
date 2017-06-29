@@ -18,9 +18,11 @@ a i u e o
 こ 
 ka	ki	ku	ke	ko
 
-さ し す せ そ sa	shi	su	se	so
+さ し す せ そ
+sa	shi	su	se	so
 
-た ち つ て と ta	chi	tsu	te	to
+た ち つ て と 
+ta	chi	tsu	te	to
 
 な に ぬ ね	の na	ni	nu	ne	no
 
