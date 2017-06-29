@@ -2,11 +2,28 @@ http://kernel.org http://mangainn.net http://poland.edu
 
 http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
 
-あ い う え お
+あ
+い 
+う 
+え
+お
 a	i	u	e	o
-か き く け こ ka	ki	ku	ke	ko さ し す せ そ sa	shi	su	se	so
+か 
+き 
+く 
+け 
+こ ka	ki	ku	ke	ko 
+さ
+し
+す
+せ
+そ sa	shi	su	se	so
 
-た ち つ て と
+た 
+ち 
+つ
+て
+と
 
 ta	chi	tsu	te	to
 
@@ -17,7 +34,12 @@ ta	chi	tsu	te	to
 の
 na	ni	nu	ne	no
 
-は ひ ふ へ ほ ha	hi	fu	he	ho ま み む め も ma	mi	mu	me	mo や ゆ よ ya	yu	yo ら り る れ ろ ra	ri	ru	re	ro わ を wa	wo ん n
+は 
+ひ
+ふ 
+へ 
+ほ 
+ha	hi	fu	he	ho ま み む め も ma	mi	mu	me	mo や ゆ よ ya	yu	yo ら り る れ ろ ra	ri	ru	re	ro わ を wa	wo ん n
 
  
 
@@ -28,6 +50,24 @@ na	ni	nu	ne	no
 ガ	ギ	グ	ゲ	ゴ ga	gi	gu	ge	go ザ	ジ	ズ	ゼ	ゾ za	ji	zu	ze	zo ダ	ヂ	ヅ	デ	ド da	ji	zu	de	do バ	ビ	ブ	ベ	ボ ba	bi	bu	be	bo パ	ピ	プ	ペ ポ pa	pi	pu	pe	po ヴ vu
 
 が	ぎ	ぐ	げ	ご ga	gi	gu	ge	go ざ	じ	ず	ぜ	ぞ za	ji	zu	ze	zo だ	じ	づ	で	ど da	ji	zu	de	do ば	び	ぶ	べ	ぼ ba	bi	bu	be	bo ぱ	ぴ	ぷ	ぺ ぽ pa	pi	pu	pe	po ゔ vu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
