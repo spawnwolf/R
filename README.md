@@ -7,16 +7,18 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
 a	i	u	e	o
  か	き	く	け	こ
 ka	ki	ku	ke	ko
- さ	し	す	せ	そ
+ さ
+ し	
+ す
+ せ
+ そ
 sa	shi	su	se	so
-
  た	
  ち	
  つ	
  て	
  と 
- 
-ta	chi	tsu	te	to
+ ta	chi	tsu	te	to
 
 
 
