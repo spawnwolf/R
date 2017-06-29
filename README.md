@@ -4,9 +4,19 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 
 
 
-あ い う え お a i u e o
+あ
+い 
+う
+え 
+お 
+a i u e o
 
-か き く け こ ka	ki	ku	ke	ko
+か 
+き
+く 
+け
+こ 
+ka	ki	ku	ke	ko
 
 さ し す せ そ sa	shi	su	se	so
 
