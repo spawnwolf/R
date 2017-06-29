@@ -2,6 +2,8 @@ http://kernel.org http://mangainn.net http://poland.edu
 
 http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 
+
+
 あ い う え お a i u e o
 
 か き く け こ ka	ki	ku	ke	ko
@@ -25,6 +27,7 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 ん n
 
 
+
 ア	イ	ウ	エ	オ a	i	u	e	o
 
 カ	キ	ク	ケ	コ ka	ki	ku	ke	ko
@@ -43,7 +46,12 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 
 ラ	リ	ル	レ	ロ ra	ri	ru	re	ro 
 
-ワ	ヲ wa	wo ン n
+ワ	ヲ wa	wo 
+
+ン n
+
+
+
 
 
 ガ	ギ	グ	ゲ	ゴ ga	gi	gu	ge	go
@@ -54,7 +62,10 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 
 バ	ビ	ブ	ベ	ボ ba	bi	bu	be	bo
 
-パ	ピ	プ	ペ ポ pa	pi	pu	pe	po ヴ vu
+パ	ピ	プ	ペ ポ pa	pi	pu	pe	po
+
+ヴ vu
+
 
 が	ぎ	ぐ	げ	ご ga	gi	gu	ge	go
 
@@ -64,5 +75,7 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 
 ば	び	ぶ	べ	ぼ ba	bi	bu	be	bo
 
-ぱ	ぴ	ぷ	ぺ ぽ pa	pi	pu	pe	po ゔ vu
+ぱ	ぴ	ぷ	ぺ ぽ pa	pi	pu	pe	po
+
+ゔ vu
 
