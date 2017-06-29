@@ -78,8 +78,3 @@ Ka  ki ku ke ko
 だ	じ	づ	で	ど da	ji	zu	de	do
 
 ば	び	ぶ	べ	ぼ ba	bi	bu	be	bo
-
-ぱ	ぴ	ぷ	ぺ ぽ pa	pi	pu	pe	po
-
-ゔ vu
-
