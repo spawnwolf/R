@@ -6,9 +6,7 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
 か き く け こ ka	ki	ku	ke	ko 
 さ し す せ そ sa	shi	su	se	so
 た ち つ て と ta	chi	tsu	te	to
-
 な に ぬ ね	の na	ni	nu	ne	no
-
 は ひ ふ へ ほ ha	hi	fu	he	ho 
 ま み む め も ma	mi	mu	me	mo
 や ゆ よ ya	yu	yo 
