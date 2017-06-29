@@ -15,7 +15,11 @@ ta	chi	tsu	te	to
 
 
 
-	な	に	ぬ	ね	の
+	な	
+	に	
+	ぬ	
+	ね	
+	の
 
 
 na	ni	nu	ne	no
