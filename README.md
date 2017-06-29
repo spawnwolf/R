@@ -37,9 +37,10 @@ na	ni	nu	ne	no
 は 
 ひ
 ふ 
-へ 
-ほ 
-ha	hi	fu	he	ho ま み む め も ma	mi	mu	me	mo や ゆ よ ya	yu	yo ら り る れ ろ ra	ri	ru	re	ro わ を wa	wo ん n
+へ
+ほ
+ha	hi	fu	he	ho 
+ま み む め も ma	mi	mu	me	mo や ゆ よ ya	yu	yo ら り る れ ろ ra	ri	ru	re	ro わ を wa	wo ん n
 
  
 
