@@ -3,12 +3,18 @@ http://kernel.org http://mangainn.net http://poland.edu
 http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
 
 
-あ	い	う	え	お
+あ	
+い	
+う	
+え	
+お
 a	i	u	e	o
- か	き	く	け	こ
+ か
+ き	
+ く	
+ け	
+ こ
 ka	ki	ku	ke	ko
-
-
  さ
  し	
  す
@@ -35,15 +41,30 @@ sa	shi	su	se	so
 na	ni	nu	ne	no
 
 
-は	ひ	ふ	へ	ほ
+は
+ひ
+ふ
+へ
+ほ
 ha	hi	fu	he	ho
-ま	み	む	め	も
+ま
+み	
+む	
+め	
+も
 ma	mi	mu	me	mo
- や		ゆ		よ
+ や
+ ゆ		
+ よ
 ya		yu		yo
-	ら	り	る	れ	ろ
+	ら
+	り
+	る
+	れ
+	ろ
 ra	ri	ru	re	ro
-わ				を
+わ
+を
 wa				wo
 ん				
 n				
