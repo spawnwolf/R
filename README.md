@@ -17,6 +17,7 @@ a i u e o
 け
 こ
 Ka  ki ku ke ko
+
 さ し す せ そ sa shi su se so
 
 た ち つ て と ta chi tsu te to
@@ -25,14 +26,10 @@ Ka  ki ku ke ko
 
 は ひ ふ へ ほ ha	hi	fu	he	ho
 
-ま み む め も ma	mi	mu	me	mo
-
-や ゆ よ ya	yu	yo
-
-ら り る れ ろ ra	ri	ru	re	ro
-
-わ を wa	wo
-
+ま み む め も ma mi mu me mo
+や ゆ よ ya yu yo
+ら り る れ ろ ra ri ru re ro
+わ を wa wo
 ん n
 
 
