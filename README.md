@@ -1,6 +1,8 @@
 http://kernel.org http://mangainn.net http://poland.edu 
 
 http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
+ 
+. 
 
 あ い う え お  a	i	u	e	o
 か き く け こ  ka	ki	ku	ke	ko 
@@ -13,8 +15,8 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
 ら り る れ ろ ra	ri	ru	re	ro 
 わ を wa	wo
 ん n
-
- 
+ 
+. 
 
 ア	イ	ウ	エ	オ a	i	u	e	o 
 
