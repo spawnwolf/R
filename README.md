@@ -40,11 +40,32 @@ na	ni	nu	ne	no
 へ
 ほ
 ha	hi	fu	he	ho 
-ま み む め も ma	mi	mu	me	mo や ゆ よ ya	yu	yo ら り る れ ろ ra	ri	ru	re	ro わ を wa	wo ん n
+ま み む め も
+ma	mi	mu	me	mo
+や ゆ よ ya	yu	yo 
+ら り る れ ろ ra	ri	ru	re	ro 
+わ を wa	wo
+ん n
 
  
 
-ア	イ	ウ	エ	オ a	i	u	e	o カ	キ	ク	ケ	コ ka	ki	ku	ke	ko サ	シ	ス	セ	ソ sa	shi	su	se	so タ	チ	ツ	テ	ト ta	chi	tsu	te	to ナ	ニ	ヌ	ネ	ノ na	ni	nu	ne	no ハ	ヒ	フ	ヘ	ホ ha	hi	fu	he	ho マ	ミ	ム	メ	モ ma	mi	mu	me	mo ヤ	ユ	ヨ ya	yu	yo ラ	リ	ル	レ	ロ ra	ri	ru	re	ro ワ	ヲ wa	wo ン n
+ア	イ	ウ	エ	オ a	i	u	e	o 
+
+カ	キ	ク	ケ	コ ka	ki	ku	ke	ko 
+
+サ	シ	ス	セ	ソ sa	shi	su	se	so
+
+タ	チ	ツ	テ	ト ta	chi	tsu	te	to 
+
+ナ	ニ	ヌ	ネ	ノ na	ni	nu	ne	no 
+
+ハ	ヒ	フ	ヘ	ホ ha	hi	fu	he	ho 
+
+マ	ミ	ム	メ	モ ma	mi	mu	me	mo 
+
+ヤ	ユ	ヨ ya	yu	yo 
+
+ラ	リ	ル	レ	ロ ra	ri	ru	re	ro ワ	ヲ wa	wo ン n
 
   ,   
 
