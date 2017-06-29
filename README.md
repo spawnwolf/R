@@ -7,6 +7,8 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/  eures
 a	i	u	e	o
  か	き	く	け	こ
 ka	ki	ku	ke	ko
+
+
  さ
  し	
  す
