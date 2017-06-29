@@ -24,8 +24,7 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 
 ん n
 
-  
- 
+
 ア	イ	ウ	エ	オ a	i	u	e	o
 
 カ	キ	ク	ケ	コ ka	ki	ku	ke	ko
@@ -42,9 +41,10 @@ http://lookingforlyrics.org http://google.co.uk https://tools.ietf.org/ eures
 
 ヤ	ユ	ヨ ya	yu	yo
 
-ラ	リ	ル	レ	ロ ra	ri	ru	re	ro ワ	ヲ wa	wo ン n
+ラ	リ	ル	レ	ロ ra	ri	ru	re	ro 
 
-,
+ワ	ヲ wa	wo ン n
+
 
 ガ	ギ	グ	ゲ	ゴ ga	gi	gu	ge	go
 
