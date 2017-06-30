@@ -48,7 +48,7 @@
     }, {
       "character": "国",
       "kunyomi": "くに",
-      "meanings": ["Country"],
+      "meanings": ["Country" kuta],
       "tags": ["starter", "jlpt5"]
     }, {
       "character": "空",
@@ -58,17 +58,17 @@
     }, {
       "character": "一",
       "kunyomi": "いち",
-      "meanings": ["One"],
+      "meanings": ["One"ichi],
       "tags": ["starter", "jlpt5"]
     }, {
       "character": "二",
       "kunyomi": "に",
-      "meanings": ["Two"],
+      "meanings": ["Two"ni],
       "tags": ["starter"]
     }, {
       "character": "三",
       "kunyomi": "さん",
-      "meanings": ["Three"],
+      "meanings": ["Three"sun],
       "tags": ["starter"]
     }, {
       "character": "四",
