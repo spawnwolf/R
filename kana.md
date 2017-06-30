@@ -3,41 +3,26 @@
 う
 え 
 お 
-
 a i u e o
 
-か 
-
-き 
-
+か
+き
 く
-
 け
-
 こ
-
-ka	ki	ku	ke	ko
+kakikukeko
 
 さ
-
 し
-
 す 
-
 せ 
-
 そ
-
-sa	shi	su	se	so
-
+sashisuseso 
+ 
 た 
-
 ち
-
 つ
-
 て 
-
 と 
 
 ta	chi	tsu	te	to
