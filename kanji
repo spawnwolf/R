@@ -38,12 +38,12 @@
     }, {
       "character": "本",
       "kunyomi": "ほん",
-      "meanings": ["Book"],
+      "meanings": ["Book" han],
       "tags": ["starter", "jlpt5"]
     }, {
       "character": "年",
       "kunyomi": "とし",
-      "meanings": ["Year"],
+      "meanings": ["Year"toshi],
       "tags": ["starter"]
     }, {
       "character": "国",
