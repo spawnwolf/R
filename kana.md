@@ -8,9 +8,13 @@ a i u e o
 
 
 か 
+
 き 
+
 く
+
 け
+
 こ
 ka	ki	ku	ke	ko
 
