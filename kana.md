@@ -17,8 +17,8 @@ kakikukeko
 す 
 せ 
 そ
-sashisuseso 
- 
+sashisuseso
+
 た 
 ち
 つ
