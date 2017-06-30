@@ -3,12 +3,12 @@
     {
       "character": "海",
       "kunyomi": "うみ",
-      "meanings": ["Ocean"],
+      "meanings": ["Ocean"ume],
       "tags": ["starter", "jlpt5"]
     }, {
       "character": "畑",
       "kunyomi": "はたけ",
-      "meanings": ["Field"],
+      "meanings": ["Field" hatase],
       "tags": ["starter"]
     }, {
       "character": "村",
