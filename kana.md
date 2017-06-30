@@ -1,8 +1,13 @@
 あ
+
 い
+
 う
+
 え 
+
 お 
+
 a i u e o
 
 
@@ -16,6 +21,7 @@ a i u e o
 け
 
 こ
+
 ka	ki	ku	ke	ko
 
 さ し す せ そ sa	shi	su	se	so
