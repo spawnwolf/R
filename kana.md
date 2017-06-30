@@ -24,21 +24,26 @@ sashisuseso 
 つ
 て 
 と 
+tachitsuteto 
 
-ta	chi	tsu	te	to
+な
+に
+ぬ
+ね
+の
+na	ni	nu	ne	no
 
-な に ぬ ね	の na	ni	nu	ne	no
-
-は ひ ふ へ ほ ha	hi	fu	he	ho
+は
+ひ 
+ふ 
+へ
+ほ 
+hahihuheho 
 
 ま み む め も ma	mi	mu	me	mo
-
 や ゆ よ ya	yu	yo
-
 ら り る れ ろ ra	ri	ru	re	ro
-
 わ を wa	wo
-
 ん n
 
 ア	イ	ウ	エ	オ a	i	u	e	o
