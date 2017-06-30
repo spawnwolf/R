@@ -23,15 +23,15 @@ sashisuseso
 ち
 つ
 て 
-と 
-tachitsuteto 
+と
+tachitsuteto
 
 な
 に
 ぬ
 ね
 の
-na	ni	nu	ne	no
+naninuneno
 
 は
 ひ 
