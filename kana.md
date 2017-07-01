@@ -3,7 +3,7 @@
 う
 え 
 お 
-a i u e o
+aiueo
 
 か
 き
