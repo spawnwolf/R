@@ -65,7 +65,9 @@ mamimumemo
 yayuyo
 rarirurero
 wawo
-n 
+n
+
+
  
 ア	イ	ウ	エ	オ a	i	u	e	o
 
