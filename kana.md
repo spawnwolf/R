@@ -3,68 +3,70 @@
 う
 え 
 お 
-aiueo
 
 か
 き
 く
 け
 こ
-kakikukeko
-
+ 
 さ
 し
 す 
 せ 
 そ
-sashisuseso
 
 た 
 ち
 つ
 て 
 と
-tachitsuteto
 
 な
 に
 ぬ
 ね
 の
-naninuneno
 
 は
 ひ 
 ふ 
 へ
 ほ 
-hahihuheho 
 
 ま
 み
 む
 め
 も
-mamimumemo 
 
-や ゆ よ
-yayuyo
+や
+ゆ
+よ
 
 ら
 り
 る
 れ
 ろ
-rarirurero
 
 わ
 を
-wawo
 
 ん
-n
 
-
+aiueo
+kakikukeko
+sashisuseso
+tachitsuteto
+naninuneno
+hahihuheho 
+mamimumemo
+yayuyo
+rarirurero
+wawo
+n 
+ 
 ア	イ	ウ	エ	オ a	i	u	e	o
 
 カ	キ	ク	ケ	コ ka	ki	ku	ke	ko
