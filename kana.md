@@ -55,7 +55,6 @@
 
 ん
 
-aiueo
 kakikukeko
 sashisuseso
 tachitsuteto
