@@ -68,7 +68,7 @@ n
 
 
  
-ア	イ	ウ	エ	オ a	i	u	e	o
+ア	イ	ウ	エ	オ
 
 カ	キ	ク	ケ	コ ka	ki	ku	ke	ko
 
