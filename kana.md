@@ -70,25 +70,20 @@ n
  
 ア	イ	ウ	エ	オ
 
-カ	キ	ク	ケ	コ ka	ki	ku	ke	ko
-
-サ	シ	ス	セ	ソ sa	shi	su	se	so
-
-タ	チ	ツ	テ	ト ta	chi	tsu	te	to
-
-ナ	ニ	ヌ	ネ	ノ na	ni	nu	ne	no
-
-ハ	ヒ	フ	ヘ	ホ ha	hi	fu	he	ho
-
-マ	ミ	ム	メ	モ ma	mi	mu	me	mo
-
-ヤ	ユ	ヨ ya	yu	yo
-
-ラ	リ	ル	レ	ロ ra	ri	ru	re	ro
-
-ワ	ヲ wa	wo
-
-ン n
+カ	キ	ク	ケ	コ 
+サ	シ	ス	セ	ソ
+タ	チ	ツ	テ	ト
+ 
+ナ	ニ	ヌ	ネ	ノ 
+ハ	ヒ	フ	ヘ	ホ 	
+ 
+マ	ミ	ム	メ	モ 	
+ヤ	ユ	ヨ 
+ 
+ラ	リ	ル	レ	ロ
+ 
+ワ	ヲ 
+ン 
 
 ガ	ギ	グ	ゲ	ゴ ga	gi	gu	ge	go
 
