@@ -1,31 +1,3 @@
-
- 
-<!--
-# JLPT vocabulary, level 1
-# Copyright (C) 2001 Thierry Bézecourt (http://www.thbz.org)
-# License information: 
-# You can use this file freely in a non-commercial way. If you plan to
-# make it available publicly in a book, a software or whatever medium,
-# whether freely or not, you must include the first two lines of this
-# file (the copyright information) and tell me about it by sending an
-# e-mail to kanjimots@thbz.org. Thanks.
-# If the kanji are not displayed correctly on your screen, you may 
-# either:
-# - in your Internet browser, change the encoding to "Unicode (UTF-8)"
-#   (in the "View" menu).
-# - or save the file on your disk, and open it with a Japanese editor 
-#   such as the excellent JWPce 
-#   (http://www.physics.ucla.edu/~grosenth/jwpce.html). 
-# format:
-# field #1 (optional): kanji representation of the word
-# field #2 (mandatory): kana representation of the word
-# field #3 (optional): remarks, between parenthesis
-</word>
-<word><kanji># 06-FEB-03: Modified by Norbert Burger (norbert.burger@mindspring.com)</word>
-<word><kanji># to include EDICT definition</word>
-<word><kanji># field #4 (optional): English definition from EDICT V03-001
--->
-<list>
 <word><kanji>あ<reading>（感動詞）</reading></kanji></word>
 <word><kanji>ああ<reading>（指示詞）</reading></kanji><meaning>(int) Ah!/Oh!/Alas!</meaning></word>
 <word><kanji>あいさつ</kanji><meaning>(n,vs) greeting/salutation</meaning></word>
