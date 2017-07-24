@@ -62,17 +62,7 @@
  
 ん n      ン 
  
-kakikukeko
-sashisuseso
-tachitsuteto
-naninuneno
-hahihuheho 
-mamimumemo
-yayuyo
-rarirurero
-wawo
-n
-
+kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rarirurero wawo n
 
 ガ	ギ	グ	ゲ	ゴ ga	gi	gu	ge	go
 
