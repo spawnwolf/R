@@ -72,7 +72,8 @@ yayuyo
 rarirurero
 wawo
 n
- 
+
+
 ガ	ギ	グ	ゲ	ゴ ga	gi	gu	ge	go
 
 ザ	ジ	ズ	ゼ	ゾ za	ji	zu	ze	zo
