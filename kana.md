@@ -8,59 +8,55 @@
 き
 く
 け
-こ k
-
+こ 
+ 
 さ       サシスセソ 
 し
 す 
 せ 
-そ s
-
+そ 
+ 
 た       タチツテト 
 ち
 つ
 て 
-と t
-
+と 
+ 
 な       ナニヌネノ 
 に
 ぬ
 ね
-の n
-
+の 
+ 
 は       ハヒフヘホ 
 ひ 
 ふ 
 へ
-ほ h
+ほ 
 
 ま       マ    
 み       ミ
 む       ム
 め       メ
-も m     モ
+も       モ
 
 や        ヤ 
  
 ゆ        ユ     
  
-よ y      ヨ 
+よ        ヨ 
                   
-
 ら        ラ
 り        リ
 る        ル
 れ        レ 
-ろ r      ロ
-
+ろ        ロ
  
 わ        ワ 
  
+を        ヲ 
  
-
-を w      ヲ 
- 
-ん n      ン 
+ん ン 
  
 kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rarirurero wawo n
 
