@@ -54,14 +54,13 @@
 ろ r      ロ
 
  
-わ
-
-
-
-をw
-
-ん    ン 
+わ        ワ 
  
+ 
+
+を w      ヲ 
+ 
+ん n      ン 
  
 kakikukeko
 sashisuseso
@@ -73,10 +72,7 @@ yayuyo
 rarirurero
 wawo
 n
-
-ワ
-  ヲ w
-
+ 
 ガ	ギ	グ	ゲ	ゴ ga	gi	gu	ge	go
 
 ザ	ジ	ズ	ゼ	ゾ za	ji	zu	ze	zo
