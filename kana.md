@@ -22,17 +22,17 @@
 て       テ
 と       ト
  
-な       ナニヌネノ 
-に
-ぬ
-ね
-の 
+な       ナ
+に       ニ
+ぬ       ヌ
+ね       ネ
+の       ノ
  
-は       ハヒフヘホ 
-ひ 
-ふ 
-へ
-ほ 
+は       ハ
+ひ       ヒ
+ふ       フ
+へ       ヘ
+ほ       ホ
 
 ま       マ    
 み       ミ
@@ -40,23 +40,23 @@
 め       メ
 も       モ
 
-や        ヤ 
+や       ヤ 
  
-ゆ        ユ     
+ゆ       ユ     
  
-よ        ヨ 
+よ       ヨ 
                   
-ら        ラ
-り        リ
-る        ル
-れ        レ 
-ろ        ロ
+ら       ラ
+り       リ
+る       ル
+れ       レ 
+ろ       ロ
  
-わ        ワ 
+わ       ワ 
  
-を        ヲ 
+を       ヲ 
  
-ん ン 
+ん       ン 
  
 kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rarirurero wawo n
 
