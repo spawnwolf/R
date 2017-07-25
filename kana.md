@@ -67,9 +67,9 @@ kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rari
 パ	ピ	プ	ペ ポ 	 
 ヴ 
  
-が	ぎ	ぐ	げ	ご ga	gi	gu	ge	go
-ざ	じ	ず	ぜ	ぞ za	ji	zu	ze	zo
-だ	じ	づ	で	ど da	ji	zu	de	do
-ば	び	ぶ	べ	ぼ ba	bi	bu	be	bo
-ぱ	ぴ	ぷ	ぺ ぽ pa	pi	pu	pe	po
-ゔ vu
+が	ぎ	ぐ	げ	ご gagigugego zajizuzezo dajizudedo babibubebo papipupepo vu
+ざ	じ	ず	ぜ	ぞ 
+だ	じ	づ	で	ど 
+ば	び	ぶ	べ	ぼ 
+ぱ	ぴ	ぷ	ぺ ぽ 
+ゔ 
