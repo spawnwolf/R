@@ -8,55 +8,55 @@
 き       キ
 く       ク
 け       ケ
-こ       コ
+こ   k   コ
  
 さ       サ
 し       シ
 す       ス
 せ       セ
-そ       ソ
+そ   s   ソ
  
 た       タ
 ち       チ
 つ       ツ
 て       テ
-と       ト
+と   t   ト
  
 な       ナ
 に       ニ
 ぬ       ヌ
 ね       ネ
-の       ノ
+の   n   ノ
  
 は       ハ
 ひ       ヒ
 ふ       フ
 へ       ヘ
-ほ       ホ
+ほ   h   ホ
 
 ま       マ    
 み       ミ
 む       ム
 め       メ
-も       モ
+も   m   モ
 
 や       ヤ 
  
 ゆ       ユ     
  
-よ       ヨ 
+よ   y   ヨ 
                   
 ら       ラ
 り       リ
 る       ル
 れ       レ 
-ろ       ロ
+ろ   r   ロ
  
 わ       ワ 
  
-を       ヲ 
+を   w   ヲ 
  
-ん       ン 
+ん   n   ン 
  
 kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rarirurero wawo n
 
