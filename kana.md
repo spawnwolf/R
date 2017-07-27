@@ -62,7 +62,7 @@
 ザ	ジ	ズ	ゼ	ゾ      ざ	じ	ず	ぜ	ぞ 
 ダ	ヂ	ヅ	デ	ド      だ	じ	づ	で	ど 
 バ	ビ	ブ	ベ	ボ      ば	び	ぶ	べ	ぼ 
-パ	ピ	プ	ペ ポ 	    ぱ	ぴ	ぷ	ぺ ぽ 
+パ	ピ	プ	ペ ポ 	    ぱ	ぴ	ぷ	ぺ ぽ
 ヴ                 ゔ
  
 kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rarirurero wawo n
