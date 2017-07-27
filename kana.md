@@ -58,20 +58,12 @@
  
 ん   n   ン 
  
-kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rarirurero wawo n
-
-ガ	ギ	グ	ゲ	ゴ
-ザ	ジ	ズ	ゼ	ゾ
-ダ	ヂ	ヅ	デ	ド 
-バ	ビ	ブ	ベ	ボ
-パ	ピ	プ	ペ ポ 	 
-ヴ 
+ガ	ギ	グ	ゲ	ゴ      が	ぎ	ぐ	げ	ご
+ザ	ジ	ズ	ゼ	ゾ      ざ	じ	ず	ぜ	ぞ 
+ダ	ヂ	ヅ	デ	ド      だ	じ	づ	で	ど 
+バ	ビ	ブ	ベ	ボ      ば	び	ぶ	べ	ぼ 
+パ	ピ	プ	ペ ポ 	    ぱ	ぴ	ぷ	ぺ ぽ 
+ヴ                 ゔ
  
-が	ぎ	ぐ	げ	ご 
-ざ	じ	ず	ぜ	ぞ 
-だ	じ	づ	で	ど 
-ば	び	ぶ	べ	ぼ 
-ぱ	ぴ	ぷ	ぺ ぽ 
-ゔ
-
+kakikukeko sashisuseso tachitsuteto naninuneno hahihuheho mamimumemo yayuyo rarirurero wawo n
 gagigugego zajizuzezo dajizudedo babibubebo papipupepo vu
